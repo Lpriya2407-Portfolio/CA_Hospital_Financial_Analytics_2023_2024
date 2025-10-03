@@ -73,6 +73,7 @@ An **interactive dashboard** was developed in **Power BI**, including:
 ## 📂 Repository Structure
 
 Healthcare_Analytics_Project/
+
 ├─ [Dashboard](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Dashboard)
 
 ├─ [Data](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Data)
