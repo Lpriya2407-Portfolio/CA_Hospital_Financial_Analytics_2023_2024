@@ -68,42 +68,24 @@ An **interactive dashboard** was developed in **Power BI**, including:
 - **Operations Page:** Occupancy, Staffing, Bed Utilization charts  
 - **Comparisons:** Top/Bottom 5 hospitals highlighted  
 
-👉 [View Dashboard (.pbix file)](Dashboard/Healthcare_Dashboard.pbix)  
-
 ---
 
 ## 📂 Repository Structure
 
 Healthcare_Analytics_Project/
-│
-├─ Data/ # Cleaned dataset files
-│ └─ Cleaned_Data.xlsx
-
-├─ Python_Code/
-│ ├─ revenue_analysis.py
-
-│ ├─ operations_analysis.py
-
-│ └─ visualization_scripts.py
-
-├─ Dashboard/
-│ └─ Healthcare_Dashboard.pbix
-
-├─ Images/
-│ ├─ eda_plots.png
-
-│ ├─ top_bottom_hospitals.png
-
-│ └─ dashboard_preview.png
-
-└─ README.md
+├─ [Dashboard](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Dashboard)
+├─ [Data](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Data)
+├─ [Images](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Images)
+├─ [Python_Code](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Python_Code)
+└─ [README.md](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/blob/main/README.md)
 
 ---
 
 ## 🖼️ Sample Visuals
-![EDA Plot](Images/eda_plots.png)  
-![Top vs Bottom 5](Images/top_bottom_hospitals.png)  
-![Dashboard Preview](Images/dashboard_preview.png)  
+
+![EDA Plot]([https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/blob/main/Healthcare_Analytics_Project/Images/eda_plots.png)]
+![Top vs Bottom 5]([https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/blob/main/Healthcare_Analytics_Project/Images/top_bottom_hospitals.png)
+![Dashboard Preview](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/blob/main/Healthcare_Analytics_Project/Images/dashboard_preview.png)
 
 ---
 
