@@ -83,8 +83,8 @@ Healthcare_Analytics_Project/
 
 ## 🖼️ Sample Visuals
 
-![EDA Plot]([https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/blob/main/Healthcare_Analytics_Project/Images/eda_plots.png)]
-![Top vs Bottom 5]([https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/blob/main/Healthcare_Analytics_Project/Images/top_bottom_hospitals.png)
+![EDA Plot](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/blob/main/Healthcare_Analytics_Project/Images/eda_plots.png)
+![Top vs Bottom 5](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/blob/main/Healthcare_Analytics_Project/Images/top_bottom_hospitals.png)
 ![Dashboard Preview](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/blob/main/Healthcare_Analytics_Project/Images/dashboard_preview.png)
 
 ---
