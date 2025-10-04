@@ -15,24 +15,24 @@ This project combines **Python-based analysis** and an **interactive Power BI da
 ## 🔑 Critical Findings
 
 ### Cost Efficiency Issues
-- ➤ Cost per patient day varies dramatically: **$785 (best) to $2,444 (worst)**
-- ➤ Unprofitable hospitals have **2–3x higher costs per patient day**
-- ➤ Average cost per discharge: **$14,582**
+ ➤ Cost per patient day varies dramatically: **$785 (best) to $2,444 (worst)**
+ ➤ Unprofitable hospitals have **2–3x higher costs per patient day**
+ ➤ Average cost per discharge: **$14,582**
 
 ### Revenue Collection Problems
-- ➤ Unprofitable hospitals show massive **gross-to-net revenue gaps**
-- ➤ Example: **Beverly Community** has $365M gross but only $92M net (**75% deduction rate!**)
-- ➤ Suggests major **payer mix issues or collection inefficiencies**
+ ➤ Unprofitable hospitals show massive **gross-to-net revenue gaps**
+ ➤ Example: **Beverly Community** has $365M gross but only $92M net (**75% deduction rate!**)
+ ➤ Suggests major **payer mix issues or collection inefficiencies**
 
 ### Labor Cost Burden
-- ➤ Labor (salaries + benefits) represents **40–60% of total costs**
-- ➤ Unprofitable hospitals haven't optimized **staffing ratios**
-- ➤ **Contra Costa** has highest absolute labor costs but maintains profitability through volume
+ ➤ Labor (salaries + benefits) represents **40–60% of total costs**
+ ➤ Unprofitable hospitals haven't optimized **staffing ratios**
+ ➤ **Contra Costa** has highest absolute labor costs but maintains profitability through volume
 
 ### Volume & Scale Matter
-- ➤ High outpatient volume = better margins (**Contra Costa: 557K visits, 15.8% margin**)
-- ➤ Low-volume hospitals struggle (**Coalinga: 11K visits, -138% margin**)
-- ➤ **Economies of scale** are critical for profitability
+ ➤ High outpatient volume = better margins (**Contra Costa: 557K visits, 15.8% margin**)
+ ➤ Low-volume hospitals struggle (**Coalinga: 11K visits, -138% margin**)
+ ➤ **Economies of scale** are critical for profitability
 
 
 ## 🛠️ Tools & Technologies Utilised
