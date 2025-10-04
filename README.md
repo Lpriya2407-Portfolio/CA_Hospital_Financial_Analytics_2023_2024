@@ -64,7 +64,9 @@ The **original dataset** had 450+ hospitals and 10,000+ columns and was cleaned 
 Performed in **Python (PyCharm)** using:  
 - **NumPy & Pandas** → Data cleaning, calculations, aggregations  
 - **Matplotlib & Seaborn** → Trend charts, distribution plots  
-- **Bokeh & Plotly** → Interactive visualizations (treemaps, hover insights)  
+- **Bokeh & Plotly** → Interactive visualizations (treemaps, hover insights)
+
+---
 
 ### Key EDA Focus  
 - Net Profit Margin across hospitals  
