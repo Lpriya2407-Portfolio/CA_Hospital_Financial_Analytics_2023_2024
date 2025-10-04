@@ -109,15 +109,15 @@ Healthcare_Analytics_Portfolio/
 
 ├─ [Data](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Data)
 
-├─ [Deliverables](YOUR_DELIVERABLES_FOLDER_LINK) 
+├─ [Deliverables](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Deliverables)
 
-├─ [Images](YOUR_IMAGES_FOLDER_LINK) 
+├─ [Images](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Images)
 
-├─ [Insights](YOUR_INSIGHTS_FOLDER_LINK)  
+├─ [Insights](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Insights)
 
-├─ [Python_Code](YOUR_PYTHON_CODE_FOLDER_LINK) 
+├─ [Python_Code](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Python_Code) 
 
-└─ [Summary](YOUR_SUMMARY_FOLDER_LINK)
+└─ [Summary](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Summary)
 
 ---
 
