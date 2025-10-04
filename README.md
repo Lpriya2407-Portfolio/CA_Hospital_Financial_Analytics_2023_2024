@@ -101,15 +101,23 @@ An **interactive dashboard** was developed in **Power BI**, including:
 
 Healthcare_Analytics_Project/
 
+## 📂 Repository Structure
+
+Healthcare_Analytics_Portfolio/
+
 ├─ [Dashboard](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Dashboard)
 
 ├─ [Data](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Data)
 
-├─ [Images](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Images)
+├─ [Deliverables](YOUR_DELIVERABLES_FOLDER_LINK) 
 
-├─ [Python_Code](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Python_Code)
+├─ [Images](YOUR_IMAGES_FOLDER_LINK) 
 
-└─ [README.md](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/blob/main/README.md)
+├─ [Insights](YOUR_INSIGHTS_FOLDER_LINK)  
+
+├─ [Python_Code](YOUR_PYTHON_CODE_FOLDER_LINK) 
+
+└─ [Summary](YOUR_SUMMARY_FOLDER_LINK)
 
 ---
 
