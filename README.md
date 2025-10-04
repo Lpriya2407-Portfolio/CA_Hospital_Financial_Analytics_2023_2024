@@ -68,7 +68,7 @@ Performed in **Python (PyCharm)** using:
 
 ---
 
-## Key EDA Focus  
+## 🔹 Key EDA Focus  
 - Net Profit Margin across hospitals  
 - Top & Bottom 5 hospitals by profitability  
 - Operational vs. financial performance correlations  
