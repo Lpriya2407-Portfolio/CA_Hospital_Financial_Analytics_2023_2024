@@ -1,6 +1,6 @@
 # 📊 CA Hospital Financial Analytics (2023–2024)
 
-Quickly analyze and compare top and bottom hospitals in California (2023–2024) using Python and Power BI to reveal key operational and financial insights.
+Quickly analyze and compare top and bottom hospitals in California (2023–2024) by net profit margin (%) using Python and Power BI to reveal key operational and financial insights.
 
 
 ## Project Summary  
@@ -12,7 +12,30 @@ This project combines **Python-based analysis** and an **interactive Power BI da
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🔑 Critical Findings
+
+### Cost Efficiency Issues
+- ➤ Cost per patient day varies dramatically: **$785 (best) to $2,444 (worst)**
+- ➤ Unprofitable hospitals have **2–3x higher costs per patient day**
+- ➤ Average cost per discharge: **$14,582**
+
+### Revenue Collection Problems
+- ➤ Unprofitable hospitals show massive **gross-to-net revenue gaps**
+- ➤ Example: **Beverly Community** has $365M gross but only $92M net (**75% deduction rate!**)
+- ➤ Suggests major **payer mix issues or collection inefficiencies**
+
+### Labor Cost Burden
+- ➤ Labor (salaries + benefits) represents **40–60% of total costs**
+- ➤ Unprofitable hospitals haven't optimized **staffing ratios**
+- ➤ **Contra Costa** has highest absolute labor costs but maintains profitability through volume
+
+### Volume & Scale Matter
+- ➤ High outpatient volume = better margins (**Contra Costa: 557K visits, 15.8% margin**)
+- ➤ Low-volume hospitals struggle (**Coalinga: 11K visits, -138% margin**)
+- ➤ **Economies of scale** are critical for profitability
+
+
+## 🛠️ Tools & Technologies Utilised
 - **Python** → Pandas, NumPy, Matplotlib, Seaborn, Plotly, Bokeh (data cleaning, EDA, visualization)  
 - **Power BI** → Data modeling, KPI dashboards, interactive visualizations  
 - **Excel / Power Query** → Initial data cleaning, transformation, and null handling  
@@ -94,12 +117,6 @@ Healthcare_Analytics_Project/
 
 ---
 
-## ✅ Key Insights
-- Significant performance gap between **Top 5 vs Bottom 5 hospitals** in Net Profit Margin  
-- Operational KPIs (Occupancy, Bed Utilization, Staff-to-Bed ratio) strongly correlate with financial outcomes  
-- Identified under-utilized hospitals with **excess staffing** relative to bed capacity  
-
----
 
 ## 📌 Next Steps
 - Extend to **multi-year data** for trend analysis  
